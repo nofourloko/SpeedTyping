@@ -1,5 +1,6 @@
-import React, {useState, useEffect, useRef} from "react"
+import React from "react"
 import useWordGame from "./hooks/useWordGame"
+import './styles.css'
 
 function App() {
     const {
